@@ -13,7 +13,7 @@ News
 - **2025.04**: I accepted the offer of Hong Kong PhD Fellowship Scheme.
 - **2025.02**: [ComfyBench](https://arxiv.org/abs/2409.01392) was accepted by CVPR 2025.
 - **2025.02**: I accepted the offer of PhD study at The Chinese University of Hong Kong.
-- **2024.05**: I joined Shanghai Artificial Intelligence Laboratory as a trainee researcher under the supervision of [Dr. Lei Bai](http://leibai.site/).
+- **2024.05**: I interned at Shanghai Artificial Intelligence Laboratory under the supervision of [Dr. Lei Bai](http://leibai.site/).
 
 Publications
 ======
