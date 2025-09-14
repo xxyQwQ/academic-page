@@ -5,28 +5,32 @@ permalink: /
 author_profile: true
 ---
 
-I am a final-year undergraduate student at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/about/general_information), majoring in Artificial Intelligence (Honor Class). I am also a member of the [Guozhi Class Program](http://www.qingyuan.sjtu.edu.cn/c/Introductiongzb) and [Zhiyuan Honors Program](https://en.zhiyuan.sjtu.edu.cn/en/about/overview). In the near future, I will continue my study as a Ph.D. student at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/aboutus/university-intro.html) under the supervision of [Prof. Wanli Ouyang](https://wlouyang.github.io/). I am currently working as a research intern at the [Shanghai AI Laboratory](https://www.shlab.org.cn/aboutus) under the supervision of [Dr. Lei Bai](http://leibai.site/). My research interests lie in large language models (LLM) and multi-agent systems (MAS).
+I am a first-year Ph.D. student of Multimedia Laboratory at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/aboutus/university-intro.html) supervised by [Prof. Wanli Ouyang](https://wlouyang.github.io/). Before that, I obtained my Bachelor's degree from the Honor Class of Artificial Intelligence at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/about/general_information). My research interests lie in the intersection of Large Language Models, Multi-agent Systems, and Reinforcement Learning.
 
 News
 ======
-- **2025.02**: [ComfyBench](https://xxyqwq.github.io/ComfyBench) is accepted by [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025).
-- **2025.02**: I received the offer from [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/aboutus/university-intro.html) to pursue my Ph.D. study.
-- **2024.11**: The preprint of my first work [ComfyBench](https://xxyqwq.github.io/ComfyBench) is submitted to [arXiv](https://arxiv.org/abs/2409.01392), with the code open-sourced on [GitHub](https://github.com/xxyQwQ/ComfyBench).
-- **2024.05**: I joined the [Shanghai AI Laboratory](https://www.shlab.org.cn/aboutus) as a research intern under the supervision of [Dr. Lei Bai](http://leibai.site/).
+- **2025.08**: [ReSo](https://arxiv.org/abs/2503.02390) was accepted by EMNLP 2025.
+- **2025.04**: I accepted the offer of Hong Kong PhD Fellowship Scheme.
+- **2025.02**: [ComfyBench](https://arxiv.org/abs/2409.01392) was accepted by CVPR 2025.
+- **2025.02**: I accepted the offer of Ph.D. study at The Chinese University of Hong Kong.
+- **2024.05**: I joined Shanghai Artificial Intelligence Laboratory as a trainee researcher under the supervision of [Dr. Lei Bai](http://leibai.site/).
 
 Publications
 ======
-- **<font color="#1e4b8d">ReSo: A Reward-driven Self-organizing LLM-based Multi-Agent System for Reasoning Tasks</font>**<br />
-Heng Zhou, Hejia Geng, **Xiangyuan Xue**, Zhenfei Yin, Lei Bai<br />
-Annual Meeting of the Association for Computational Linguistics (**ACL** 2025, Under Review)<br />
-[[Paper]](https://arxiv.org/abs/2503.02390) [[Code]](https://github.com/hengzzzhou/ReSo)<br />
+- **<font color="#1e4b8d">The Landscape of Agentic Reinforcement Learning for LLMs: A Survey</font>**<br />
+Guibin Zhang, Hejia Geng, Xiaohang Yu, Zhenfei Yin, Zaibin Zhang, Zelin Tan, Heng Zhou, Zhongzhi Li, **Xiangyuan Xue**, Yijiang Li, Yifan Zhou, Yang Chen, Chen Zhang, Yutao Fan, Zihu Wang, Songtao Huang, Yue Liao, Hongru Wang, Mengyue Yang, Heng Ji, Michael Littman, Jun Wang, Shuicheng Yan, Philip Torr, Lei Bai (**arXiv** preprint)<br />
+[[Paper]](https://arxiv.org/abs/2509.02547) [[Code]](https://github.com/xhyumiracle/Awesome-AgenticLLM-RL-Papers)<br />
 
-- **<font color="#1e4b8d">Position: Scaling LLM-based Multi-agent Systems Calls for Systematical Design</font>**<br />
-Guibin Zhang, **Xiangyuan Xue**, Yifan Hu, Sumeet Ramesh Motwani, Christian Schroeder de Witt, Lei Bai, Zhenfei Yin, Philip Torr<br />
-International Conference on Machine Learning (**ICML** 2025, Under Review)<br />
-[[Paper]](/404/)<br />
+- **<font color="#1e4b8d">Position: Intelligent Science Laboratory Requires the Integration of Cognitive and Embodied AI</font>**<br />
+Sha Zhang, Suorong Yang, Tong Xie, **Xiangyuan Xue**, Zixuan Hu, Rui Li, Wenxi Qu, Zhenfei Yin, Tianfan Fu, Di Hu, Andres M Bran, Nian Ran, Bram Hoex, Wangmeng Zuo, Philippe Schwaller, Wanli Ouyang, Lei Bai, Yanyong Zhang, Lingyu Duan, Shixiang Tang, Dongzhan Zhou (**arXiv** preprint)<br />
+[[Paper]](https://arxiv.org/abs/2506.19613)<br />
+
+- **<font color="#1e4b8d">ReSo: A Reward-driven Self-organizing LLM-based Multi-Agent System for Reasoning Tasks</font>**<br />
+Heng Zhou, Hejia Geng, **Xiangyuan Xue**, Li Kang, Yiran Qin, Zhiyong Wang, Zhenfei Yin, Lei Bai<br />
+Conference on Empirical Methods in Natural Language Processing (**EMNLP** 2025)<br />
+[[Paper]](https://arxiv.org/abs/2503.02390) [[Code]](https://github.com/hengzzzhou/ReSo)<br />
 
 - **<font color="#1e4b8d">ComfyBench: Benchmarking LLM-based Agents in ComfyUI for Autonomously Designing Collaborative AI Systems</font>**<br />
 **Xiangyuan Xue**, Zeyu Lu, Di Huang, Zidong Wang, Wanli Ouyang, Lei Bai<br />
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR** 2025)<br />
-[[Paper]](https://arxiv.org/abs/2409.01392) [[Project]](https://xxyqwq.github.io/ComfyBench) [[Code]](https://github.com/xxyQwQ/ComfyBench)<br />
+[[Paper]](https://arxiv.org/abs/2409.01392) [[Code]](https://github.com/xxyQwQ/ComfyBench) [[Project]](https://xxyqwq.github.io/ComfyBench)<br />
