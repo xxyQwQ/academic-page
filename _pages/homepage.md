@@ -1,18 +1,18 @@
 ---
 layout: archive
-title: "Xiangyuan Xue"
+title: "Homepage"
 permalink: /
 author_profile: true
 ---
 
-I am a first-year Ph.D. student of Multimedia Laboratory at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/aboutus/university-intro.html) supervised by [Prof. Wanli Ouyang](https://wlouyang.github.io/). Before that, I obtained my Bachelor's degree from the Honor Class of Artificial Intelligence at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/about/general_information). My research interests lie in the intersection of Large Language Models, Multi-agent Systems, and Reinforcement Learning.
+I am a first-year PhD student of Multimedia Laboratory at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/aboutus/university-intro.html) supervised by [Prof. Wanli Ouyang](https://wlouyang.github.io/). Before that, I obtained my Bachelor's degree from the Honor Class of Artificial Intelligence at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/about/general_information). My research interests lie in the intersection of Large Language Models, Multi-agent Systems, and Reinforcement Learning.
 
 News
 ======
 - **2025.08**: [ReSo](https://arxiv.org/abs/2503.02390) was accepted by EMNLP 2025.
 - **2025.04**: I accepted the offer of Hong Kong PhD Fellowship Scheme.
 - **2025.02**: [ComfyBench](https://arxiv.org/abs/2409.01392) was accepted by CVPR 2025.
-- **2025.02**: I accepted the offer of Ph.D. study at The Chinese University of Hong Kong.
+- **2025.02**: I accepted the offer of PhD study at The Chinese University of Hong Kong.
 - **2024.05**: I joined Shanghai Artificial Intelligence Laboratory as a trainee researcher under the supervision of [Dr. Lei Bai](http://leibai.site/).
 
 Publications
