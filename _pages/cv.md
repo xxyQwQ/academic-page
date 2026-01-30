@@ -35,6 +35,10 @@ Selected Honors
 
 Research Experience
 ======
+- **[CoMAS: Co-Evolving Multi-Agent Systems via Interaction Rewards](https://arxiv.org/abs/2510.08529)**
+  - Accepted by ICLR 2026 (First Author)
+  - Advisor: [Prof. Wanli Ouyang](https://wlouyang.github.io/) & [Dr. Zhenfei Yin](https://yinzhenfei.github.io/)
+  - Propose a novel framework that enables multiple agents to self-improve autonomously by learning from intrinsic reward signals from inter-agent interactions without external supervision.
 - **[ComfyBench: Benchmarking LLM-based Agents in ComfyUI for Autonomously Designing Collaborative AI Systems](https://arxiv.org/abs/2409.01392)**
   - Accepted by CVPR 2025 (First Author)
   - Advisor: [Prof. Wanli Ouyang](https://wlouyang.github.io/) & [Dr. Lei Bai](http://leibai.site/)
@@ -48,9 +52,4 @@ Internship Experience
 ======
 - **[Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/aboutus)**, May 2024 - Present
   - Trainee Researcher, AI for Science Group
-  - Research on the topics of large language models and multi-agent systems under the supervision of Prof. Wanli Ouyang and Dr. Lei Bai, producing the ComfyBench work as the first author.
-
-Skills
-======
-- **Language**: Chinese (Native), English (Fluent)
-- **Programming**: C++, C# (WinForm), Python (PyTorch), LaTeX
+  - Research on the topics of large language models and multi-agent systems under the supervision of Prof. Wanli Ouyang and Dr. Lei Bai, producing multiple publications at top-tier conferences.
