@@ -14,10 +14,15 @@ News
 - **2025.04**: I accepted the offer of Hong Kong PhD Fellowship Scheme.
 - **2025.02**: [ComfyBench](https://arxiv.org/abs/2409.01392) was accepted by CVPR 2025.
 - **2025.02**: I accepted the offer of PhD study at The Chinese University of Hong Kong.
-- **2024.05**: I interned at Shanghai Artificial Intelligence Laboratory under the supervision of [Dr. Lei Bai](http://leibai.site/).
+- **2024.05**: I interned at Shanghai Artificial Intelligence Laboratory.
 
 Publications
 ======
+- **<font color="#1e4b8d">LatentMem: Customizing Latent Memory for Multi-Agent Systems</font>**<br />
+Muxin Fu, Guibin Zhang, **Xiangyuan Xue**, Yafu Li, Zefeng He, Siyuan Huang, Xiaoye Qu, Yu Cheng, Yang Yang<br />
+arXiv preprint arXiv:2602.03036<br />
+[[Paper]](https://arxiv.org/abs/2602.03036) [[Code]](https://github.com/KANABOON1/LatentMem)<br />
+
 - **<font color="#1e4b8d">CoMAS: Co-Evolving Multi-Agent Systems via Interaction Rewards</font>**<br />
 **Xiangyuan Xue**, Yifan Zhou, Guibin Zhang, Zaibin Zhang, Yijiang Li, Chen Zhang, Zhenfei Yin, Philip Torr, Wanli Ouyang, Lei Bai<br />
 International Conference on Learning Representations (**ICLR** 2026)<br />
