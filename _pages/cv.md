@@ -15,7 +15,7 @@ Education Background
   - August 2025 - July 2029 (expected)
   - Department of Information Engineering (Multimedia Laboratory)
   - Funded by the Hong Kong PhD Fellowship Scheme
-  - Research Interests: Large Language Models, Multi-agent Systems, Reinforcement Learning
+  - Research Interests: LLM-based Agents, Multi-agent Systems, and Agentic RL
 - **Bachelor of Engineering, [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/about/general_information)**
   - September 2021 - June 2025
   - Major in Artificial Intelligence (Honor Class)
@@ -35,6 +35,10 @@ Selected Honors
 
 Research Experience
 ======
+- **[StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction](https://arxiv.org/abs/2605.06642)**
+  - Submitted to NeurIPS 2026 (First Author)
+  - Advisor: [Prof. Wanli Ouyang](https://wlouyang.github.io/) & [Dr. Zhenfei Yin](https://yinzhenfei.github.io/)
+  - Introduce an explicit trajectory-level strategy to guide long-horizon behavior during agentic RL, improving exploration and credit assignment across the entire learning process.
 - **[CoMAS: Co-Evolving Multi-Agent Systems via Interaction Rewards](https://arxiv.org/abs/2510.08529)**
   - Accepted by ICLR 2026 (First Author)
   - Advisor: [Prof. Wanli Ouyang](https://wlouyang.github.io/) & [Dr. Zhenfei Yin](https://yinzhenfei.github.io/)
@@ -42,14 +46,10 @@ Research Experience
 - **[ComfyBench: Benchmarking LLM-based Agents in ComfyUI for Autonomously Designing Collaborative AI Systems](https://arxiv.org/abs/2409.01392)**
   - Accepted by CVPR 2025 (First Author)
   - Advisor: [Prof. Wanli Ouyang](https://wlouyang.github.io/) & [Dr. Lei Bai](http://leibai.site/)
-  - Propose a benchmark for LLM-based agents to autonomously design collaborative AI systems in ComfyUI, along with a well-performing multi-agent framework to solve the tasks.
-- **[ReSo: A Reward-driven Self-organizing LLM-based Multi-Agent System for Reasoning Tasks](https://arxiv.org/abs/2503.02390)**
-  - Accepted by EMNLP 2025 (Third Author)
-  - Advisor: [Dr. Lei Bai](http://leibai.site/) & [Dr. Zhenfei Yin](https://yinzhenfei.github.io/)
-  - Propose a multi-agent system which integrates task graph generation with a reward-driven two-stage agent selection process, achieving state-of-the-art performance on reasoning tasks.
+  - Build a benchmark for LLM-based agents to autonomously design collaborative AI systems in ComfyUI, along with a well-performing multi-agent framework to solve the tasks.
 
 Internship Experience
 ======
-- **[Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/aboutus)**, May 2024 - Present
+- **[Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/aboutus)**, May 2024 - May 2026
   - Trainee Researcher, AI for Science Group
-  - Research on the topics of large language models and multi-agent systems under the supervision of Prof. Wanli Ouyang and Dr. Lei Bai, producing multiple publications at top-tier conferences.
+  - Research on the topics of LLM-based Agents, Multi-agent Systems, and Agentic RL under the supervision of Prof. Wanli Ouyang and Dr. Lei Bai, producing multiple publications at top-tier conferences.
