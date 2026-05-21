@@ -33,7 +33,7 @@ Selected Honors
 - **First-Class Academic Excellence Scholarship (Three Times)**, December 2022, 2023, 2024
   - Highest academic scholarship awarded to top 1% students in Shanghai Jiao Tong University
 
-Research Experience
+Selected Publications
 ======
 - **[StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction](https://arxiv.org/abs/2605.06642)**
   - Submitted to NeurIPS 2026 (First Author)
