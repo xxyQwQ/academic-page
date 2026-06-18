@@ -18,6 +18,11 @@ News
 
 Publications
 ======
+- **<font color="#1e4b8d">SciOrch: Learning to Orchestrate Expert LLMs for Solving Frontier Multimodal Scientific Reasoning Tasks</font>**<br />
+Jingru Guo, **Xiangyuan Xue**, Lian Zhang, Wanghan Xu, Siki Chen, Philip Torr, Wanli Ouyang, Lei Bai, Zhenfei Yin<br />
+arXiv preprint arXiv:2605.06642<br />
+[[Paper]](https://arxiv.org/abs/2606.15872) [[Code]](https://github.com/llexieguo/SciOrch)<br />
+
 - **<font color="#1e4b8d">StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction</font>**<br />
 **Xiangyuan Xue**, Yifan Zhou, Zidong Wang, Shengji Tang, Philip Torr, Wanli Ouyang, Lei Bai, Zhenfei Yin<br />
 arXiv preprint arXiv:2605.06642<br />
