@@ -5,11 +5,11 @@ permalink: /
 author_profile: true
 ---
 
-I am a first-year PhD student of Multimedia Laboratory at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/aboutus/university-intro.html) supervised by [Prof. Wanli Ouyang](https://wlouyang.github.io/). Before that, I obtained my Bachelor's degree from the Honor Class of Artificial Intelligence at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/about/general_information). My research interests lie in LLM-based Agents, Multi-agent Systems, and Agentic RL.
+I am a second-year PhD student of Multimedia Laboratory at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/aboutus/university-intro.html) supervised by [Prof. Wanli Ouyang](https://wlouyang.github.io/). Before that, I obtained my Bachelor's degree from the Honor Class of Artificial Intelligence at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/about/general_information). My research interests lie in LLM-based Agents, Multi-agent Systems, and Agentic RL.
 
 News
 ======
-- **2026.05**: [StraTA](https://arxiv.org/abs/2605.06642) preprint was released on arXiv.
+- **2026.09**: [StraTA](https://arxiv.org/abs/2605.06642) was accepted by NeurIPS 2026.
 - **2026.01**: [CoMAS](https://arxiv.org/abs/2510.08529) was accepted by ICLR 2026.
 - **2025.04**: I accepted the offer of Hong Kong PhD Fellowship Scheme.
 - **2025.02**: [ComfyBench](https://arxiv.org/abs/2409.01392) was accepted by CVPR 2025.
@@ -20,17 +20,17 @@ Publications
 ======
 - **<font color="#1e4b8d">SciOrch: Learning to Orchestrate Expert LLMs for Solving Frontier Multimodal Scientific Reasoning Tasks</font>**<br />
 Jingru Guo, **Xiangyuan Xue**, Lian Zhang, Wanghan Xu, Siki Chen, Philip Torr, Wanli Ouyang, Lei Bai, Zhenfei Yin<br />
-arXiv preprint arXiv:2606.15872<br />
+Conference on Empirical Methods in Natural Language Processing (**EMNLP** 2026)<br />
 [[Paper]](https://arxiv.org/abs/2606.15872) [[Code]](https://github.com/llexieguo/SciOrch)<br />
 
 - **<font color="#1e4b8d">StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction</font>**<br />
 **Xiangyuan Xue**, Yifan Zhou, Zidong Wang, Shengji Tang, Philip Torr, Wanli Ouyang, Lei Bai, Zhenfei Yin<br />
-arXiv preprint arXiv:2605.06642<br />
+Annual Conference on Neural Information Processing Systems (**NeurIPS** 2026)<br />
 [[Paper]](https://arxiv.org/abs/2605.06642) [[Code]](https://github.com/xxyQwQ/StraTA)<br />
 
 - **<font color="#1e4b8d">LatentMem: Customizing Latent Memory for Multi-Agent Systems</font>**<br />
 Muxin Fu, **Xiangyuan Xue**, Yafu Li, Zefeng He, Siyuan Huang, Xiaoye Qu, Yu Cheng, Yang Yang<br />
-arXiv preprint arXiv:2602.03036<br />
+Conference on Empirical Methods in Natural Language Processing (**EMNLP** 2026)<br />
 [[Paper]](https://arxiv.org/abs/2602.03036) [[Code]](https://github.com/KANABOON1/LatentMem)<br />
 
 - **<font color="#1e4b8d">CoMAS: Co-Evolving Multi-Agent Systems via Interaction Rewards</font>**<br />

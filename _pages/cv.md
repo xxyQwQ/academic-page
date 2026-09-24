@@ -36,7 +36,7 @@ Selected Honors
 Selected Publications
 ======
 - **[StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction](https://arxiv.org/abs/2605.06642)**
-  - Submitted to NeurIPS 2026 (First Author)
+  - Accepted by NeurIPS 2026 (First Author)
   - Advisor: [Prof. Wanli Ouyang](https://wlouyang.github.io/) & [Dr. Zhenfei Yin](https://yinzhenfei.github.io/)
   - Introduce an explicit trajectory-level strategy to guide long-horizon behavior during agentic RL, improving exploration and credit assignment across the entire learning process.
 - **[CoMAS: Co-Evolving Multi-Agent Systems via Interaction Rewards](https://arxiv.org/abs/2510.08529)**
