@@ -14,7 +14,7 @@ Conference on Empirical Methods in Natural Language Processing (**EMNLP** 2026)<
 
 **<font color="#1e4b8d">StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction</font>**<br />
 **Xiangyuan Xue**, Yifan Zhou, Zidong Wang, Shengji Tang, Philip Torr, Wanli Ouyang, Lei Bai, Zhenfei Yin<br />
-Annual Conference on Neural Information Processing Systems (**NeurIPS** 2026)<br />
+Conference on Neural Information Processing Systems (**NeurIPS** 2026)<br />
 [[Paper]](https://arxiv.org/abs/2605.06642) [[Code]](https://github.com/xxyQwQ/StraTA)<br />
 
 **<font color="#1e4b8d">LatentMem: Customizing Latent Memory for Multi-Agent Systems</font>**<br />
